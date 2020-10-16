@@ -1,0 +1,13 @@
+F:\eray\jaharia\zar\bin\Debug\netcoreapp3.1\zar.exe
+F:\eray\jaharia\zar\bin\Debug\netcoreapp3.1\zar.deps.json
+F:\eray\jaharia\zar\bin\Debug\netcoreapp3.1\zar.runtimeconfig.json
+F:\eray\jaharia\zar\bin\Debug\netcoreapp3.1\zar.runtimeconfig.dev.json
+F:\eray\jaharia\zar\bin\Debug\netcoreapp3.1\zar.dll
+F:\eray\jaharia\zar\bin\Debug\netcoreapp3.1\zar.pdb
+F:\eray\jaharia\zar\obj\Debug\netcoreapp3.1\zar.csprojAssemblyReference.cache
+F:\eray\jaharia\zar\obj\Debug\netcoreapp3.1\zar.AssemblyInfoInputs.cache
+F:\eray\jaharia\zar\obj\Debug\netcoreapp3.1\zar.AssemblyInfo.cs
+F:\eray\jaharia\zar\obj\Debug\netcoreapp3.1\zar.csproj.CoreCompileInputs.cache
+F:\eray\jaharia\zar\obj\Debug\netcoreapp3.1\zar.dll
+F:\eray\jaharia\zar\obj\Debug\netcoreapp3.1\zar.pdb
+F:\eray\jaharia\zar\obj\Debug\netcoreapp3.1\zar.genruntimeconfig.cache
